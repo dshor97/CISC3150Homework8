@@ -6,10 +6,13 @@ public class Main {
     public static long numSpaces = 0;
     public static DataOutputStream dataOutputStream;
     public static void main(String[] args) throws Exception{
-        File root = new File("/Users/Student/Desktop");
+        File root = new File("/Users/Student/Desktop/");
         File output = new File("/Users/Student/IdeaProjects/CISC3150Homework8/src/dir_tree.txt");
         output.createNewFile();
         dataOutputStream = new DataOutputStream(new FileOutputStream(output));
+        dataOutputStream.writeBytes(root.toString() + '\n');
+        dataOutputStream.flush();
+        numSpaces++;
         File[] tree = root.listFiles();
         writeTree(tree);
     }

@@ -1,550 +1,551 @@
-/Users/Student/Desktop/.DS_Store
-/Users/Student/Desktop/.git
-	/Users/Student/Desktop/.git/.DS_Store
-	/Users/Student/Desktop/.git/branches
-	/Users/Student/Desktop/.git/config
-	/Users/Student/Desktop/.git/description
-	/Users/Student/Desktop/.git/HEAD
-	/Users/Student/Desktop/.git/hooks
-		/Users/Student/Desktop/.git/hooks/applypatch-msg.sample
-		/Users/Student/Desktop/.git/hooks/commit-msg.sample
-		/Users/Student/Desktop/.git/hooks/post-update.sample
-		/Users/Student/Desktop/.git/hooks/pre-applypatch.sample
-		/Users/Student/Desktop/.git/hooks/pre-commit.sample
-		/Users/Student/Desktop/.git/hooks/pre-push.sample
-		/Users/Student/Desktop/.git/hooks/pre-rebase.sample
-		/Users/Student/Desktop/.git/hooks/prepare-commit-msg.sample
-		/Users/Student/Desktop/.git/hooks/update.sample
-	/Users/Student/Desktop/.git/info
-		/Users/Student/Desktop/.git/info/exclude
-	/Users/Student/Desktop/.git/objects
-		/Users/Student/Desktop/.git/objects/info
-		/Users/Student/Desktop/.git/objects/pack
-	/Users/Student/Desktop/.git/refs
-		/Users/Student/Desktop/.git/refs/heads
-		/Users/Student/Desktop/.git/refs/tags
-/Users/Student/Desktop/.localized
-/Users/Student/Desktop/Calculus2
-	/Users/Student/Desktop/Calculus2/.DS_Store
-	/Users/Student/Desktop/Calculus2/Calculus Textbook James Stewart 8th edition.pdf
-	/Users/Student/Desktop/Calculus2/Calculus Textbook James Stewart 8th edition.pdf.zip
-	/Users/Student/Desktop/Calculus2/Final Review Flyer.docx
-	/Users/Student/Desktop/Calculus2/flyer template spring 2016.doc
-	/Users/Student/Desktop/Calculus2/Intern Confirmation Letter-Dayton Shor.pdf
-	/Users/Student/Desktop/Calculus2/midterm exam review flyer.docx
-	/Users/Student/Desktop/Calculus2/spring-2013-final.pdf
-/Users/Student/Desktop/CISC_3150
-	/Users/Student/Desktop/CISC_3150/.DS_Store
-	/Users/Student/Desktop/CISC_3150/Blah.class
-	/Users/Student/Desktop/CISC_3150/Blah.java
-	/Users/Student/Desktop/CISC_3150/CISC3150Homework2.zip
-	/Users/Student/Desktop/CISC_3150/Homework1.zip
-/Users/Student/Desktop/College
-	/Users/Student/Desktop/College/.DS_Store
-	/Users/Student/Desktop/College/Fall_2015
-		/Users/Student/Desktop/College/Fall_2015/.DS_Store
-		/Users/Student/Desktop/College/Fall_2015/CISC1110
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/.DS_Store
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_03_15
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_03_15.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_03_15.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_08_15
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_08_15.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_08_15.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_17_15
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_17_15.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/09_17_15.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100115
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100115.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100115.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100815
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100815.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100815.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100815pt2
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100815pt2.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/100815pt2.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102215
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102215.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102215.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102715
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102715.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102715.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102915
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102915.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/102915.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/110315
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/110315.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/110315.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/110515
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/110515.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/110515.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/111015
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/111015.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/111015.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/111215
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/111215.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/111215.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/11_19_15
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/11_19_15.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/11_19_15.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/12115
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/12115.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/12115.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/12315
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/12315.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/12315.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92415
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92415.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92415.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92415pt2
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92415pt2.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92415pt2.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92515
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92515.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/92515.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/9_24_15
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/9_24_15.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/editor.txt
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/editorout.txt
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/ex
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/ex.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/ex.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/.DS_Store
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/09_03_15
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/09_03_15.o
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/09_08_15
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/09_08_15.o
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/prgrm1_HW1
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/prgrm1_HW1.cpp
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/prgrm1_HW1.o
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/test_prgm
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/test_prgm.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/HW
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/.DS_Store
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/.DS_Store
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/hw#1_handcheck.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/hw#1_input.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/hw#1_memory_trace.docx
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/hw#1_output.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/prgrm1_HW1
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/prgrm1_HW1.cpp
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/prgrm1_HW1.o
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/.DS_Store
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/Dayton Shor.docx
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/hw#2_prgm
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/hw#2_prgm.cpp
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/hw#2_prgm.o
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/.DS_Store
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3input.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3output.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3prgm
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3prgm.cpp
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3prgm.o
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/teamStats.txt
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/.DS_Store
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4input.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4output.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4prgm
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4prgm.cpp
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4prgm.o
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/.DS_Store
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw#5output2.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw#5sourcecode.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5input copy.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5input.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5output copy.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5output.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5prgm
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5prgm.cpp
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/.DS_Store
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/hw6_input.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/hw6_prgm
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/hw6_prgm.cpp
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/hw6_prgm.o
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/.DS_Store
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8 source code.docx
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8 source code.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8_prgm
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8_prgm.cpp
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8_prgm.o
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/input.txt
-					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/Output#8.docx
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/prgrm1_HW1
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/prgrm1_HW1.cpp
-				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/prgrm1_HW1.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/hw#6_output.txt
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/hw#6_source_code.txt
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/hw#8sourcecode.docx
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/hw#8sourcecode.txt
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/hw6_input.txt
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/introcompFall2013-2.pptx
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab 9_17_15
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab 9_17_15.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab10
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab10.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab10.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab11
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab11.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab11.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab12
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab12.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab12.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab13
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab13.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab13.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab14
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab14.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab14.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab2
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab2.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab2.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab3
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab3.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab3.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab4
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab4.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab4.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab5
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab5.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab5.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab6
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab6.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab6.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab7
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab7.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab7.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab8
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab8.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab8.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab9
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab9.cpp
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/lab9.o
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/Reading Worksheet 12 (Roman Epistles).docx
-			/Users/Student/Desktop/College/Fall_2015/CISC1110/thermometer.cpp
-		/Users/Student/Desktop/College/Fall_2015/CLAS1110
-			/Users/Student/Desktop/College/Fall_2015/CLAS1110/.DS_Store
-			/Users/Student/Desktop/College/Fall_2015/CLAS1110/CLAS1110 (F15)-3.doc
-			/Users/Student/Desktop/College/Fall_2015/CLAS1110/CLAS1110 Writing Assignment.docx
-			/Users/Student/Desktop/College/Fall_2015/CLAS1110/creative assignment.docx
-			/Users/Student/Desktop/College/Fall_2015/CLAS1110/Odessey_gifts_paper.docx
-			/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/.DS_Store
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #2 (Od.7, 8).doc
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #3 (Od.9, 13).doc
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #4 (Od.18, 21).doc
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #5 (Od.22, 23).doc
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #6 (Medea).doc
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #7 (Plato's Apology).doc
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #8 (Plato's Crito, Phaedo).doc
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #9 (Livy, book 1).docx
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW#1 (Od 1,5,6)-4.docx
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 10 (Aeneid bk 1-2).docx
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 11 (Aeneid bk 3-4).docx
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 11 (Aeneid bk 5-6).docx
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 13 (The Golden Ass 1-2).docx
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 14 (The Golden Ass 3 & 10).docx
-				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 15 (The Golden Ass 11)-2.docx
-		/Users/Student/Desktop/College/Fall_2015/ENGL 1010
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/.DS_Store
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/50-writing-tools.pdf
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/Dayton Shor.docx
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/Essay #1 draft 2.docx
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay #1.docx
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#2 draft 2.docx
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#2.docx
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#4 draft 2.docx
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#4_draft#1.docx
-			/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#5.docx
-	/Users/Student/Desktop/College/Fall_2016
-		/Users/Student/Desktop/College/Fall_2016/.DS_Store
-		/Users/Student/Desktop/College/Fall_2016/Anthropology
-			/Users/Student/Desktop/College/Fall_2016/Anthropology/.DS_Store
-			/Users/Student/Desktop/College/Fall_2016/Anthropology/Sept 7 response.docx
-		/Users/Student/Desktop/College/Fall_2016/Disability Studies
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/.DS_Store
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/1. An Archive and Anatomy of Disability Myths, Dolmage copy.pdf
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/2. Rhetoric of Ableism.docx
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/3. Cinema of Isolation, Norden .pdf
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/4. Disability, Spectatorship, and The Station Agent                               .docx
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/5. Advertising Boldly Moves Disability Images Forward, Haller copy-2.pdf
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/6. The Sound of the Bones, Kuppers .pdf
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/8. Media's Role in Disability, Ellis and Goggin copy-2.pdf
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/9. Eli Clare Freaks and Queers.pdf
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/Freaks response .docx
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/Nobody's Perfect Response.docx
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/response paper station agent.docx
-			/Users/Student/Desktop/College/Fall_2016/Disability Studies/Syllabus, Disability and the Politics of Cultural Representation-2.pdf
-		/Users/Student/Desktop/College/Fall_2016/Intro to Advanced Math
-			/Users/Student/Desktop/College/Fall_2016/Intro to Advanced Math/.DS_Store
-			/Users/Student/Desktop/College/Fall_2016/Intro to Advanced Math/Pearson.Mathematical.Proofs.A.Transition.to.Advanced.Mathematics.3rd.Edition.0321797094.pdf
-		/Users/Student/Desktop/College/Fall_2016/movies 
-			/Users/Student/Desktop/College/Fall_2016/movies /.DS_Store
-			/Users/Student/Desktop/College/Fall_2016/movies /Niko Von Glasow.mov
-		/Users/Student/Desktop/College/Fall_2016/physics final
-			/Users/Student/Desktop/College/Fall_2016/physics final/.DS_Store
-			/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand10.doc
-			/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand11.doc
-			/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand12.doc
-			/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand8.doc
-			/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand9.doc
-	/Users/Student/Desktop/College/Fall_2017
-	/Users/Student/Desktop/College/Spring_2016
-		/Users/Student/Desktop/College/Spring_2016/.DS_Store
-		/Users/Student/Desktop/College/Spring_2016/4239823.pdf
-		/Users/Student/Desktop/College/Spring_2016/Abortion debate stalin letters to izvestiia.pdf
-		/Users/Student/Desktop/College/Spring_2016/algone62014-exam.pdf
-		/Users/Student/Desktop/College/Spring_2016/algone82014-exam.pdf
-		/Users/Student/Desktop/College/Spring_2016/article review 2.docx
-		/Users/Student/Desktop/College/Spring_2016/batman and american Mr. Hyde.pdf
-		/Users/Student/Desktop/College/Spring_2016/call of cthulhu.pdf
-		/Users/Student/Desktop/College/Spring_2016/concert assignment #2.docx
-		/Users/Student/Desktop/College/Spring_2016/concert assignment 1.docx
-		/Users/Student/Desktop/College/Spring_2016/DataStructures
-			/Users/Student/Desktop/College/Spring_2016/DataStructures/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4/.DS_Store
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4/a.out
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4/heap.h
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4/test.cpp
-			/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/.DS_Store
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/a.out
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/Dayton_Shor_TR9_HW1.zip
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/README
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/SinglyLinkedList.h
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/SinglyLinkedListTest.cpp
-			/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2/.DS_Store
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2/a.out
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2/main.cpp
-				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2/maze.h
-		/Users/Student/Desktop/College/Spring_2016/Dayton_Shor_resume.docx
-		/Users/Student/Desktop/College/Spring_2016/Dayton_Shor_VIDRIO_Contract_16-3.pdf
-		/Users/Student/Desktop/College/Spring_2016/DE
-			/Users/Student/Desktop/College/Spring_2016/DE/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/DE/chapter 1
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/.DS_Store
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/1.ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/2-2.ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/3(1).ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/4.ppt
-			/Users/Student/Desktop/College/Spring_2016/DE/chapter 2
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/.DS_Store
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/1(1).ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/2(1).ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/3(2).ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/4(1).ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/5(1).ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/6(5).ppt
-				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/7.ppt
-		/Users/Student/Desktop/College/Spring_2016/ENGL1012
-			/Users/Student/Desktop/College/Spring_2016/ENGL1012/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/ENGL1012/Annotated bibliography.docx
-			/Users/Student/Desktop/College/Spring_2016/ENGL1012/article review 3.docx
-			/Users/Student/Desktop/College/Spring_2016/ENGL1012/Dayton Shor.docx
-			/Users/Student/Desktop/College/Spring_2016/ENGL1012/English1012Spring2016MW(1).pdf
-			/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings
-				/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/.DS_Store
-				/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/American Heroes.pdf
-				/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/freud.pdf
-				/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/Holy Islamaphobia Batman.pdf
-				/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/lycoan metamorphisis .pdf
-				/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/Monster Theory _ Reading Culture.pdf
-				/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/Moral Saints, Moral monsters.pdf
-			/Users/Student/Desktop/College/Spring_2016/ENGL1012/Response paper #1.docx
-			/Users/Student/Desktop/College/Spring_2016/ENGL1012/Topic proposal.docx
-		/Users/Student/Desktop/College/Spring_2016/English research paper.docx
-		/Users/Student/Desktop/College/Spring_2016/femenist essay.docx
-		/Users/Student/Desktop/College/Spring_2016/Final essay HIST3005.docx
-		/Users/Student/Desktop/College/Spring_2016/final exam review flyer spring 2016.docx
-		/Users/Student/Desktop/College/Spring_2016/Friedan Feminine Mystique copy.pdf
-		/Users/Student/Desktop/College/Spring_2016/Friedan Feminine Mystique.pdf
-		/Users/Student/Desktop/College/Spring_2016/HIST 3005 05-09-16.docx
-		/Users/Student/Desktop/College/Spring_2016/HIST 3005 reading assignment APRL 5.docx
-		/Users/Student/Desktop/College/Spring_2016/HIST3005
-			/Users/Student/Desktop/College/Spring_2016/HIST3005/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/HIST3005/3005_honors_ syllabus spring 2016.pdf
-			/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/.DS_Store
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/HIST 3005 kitchen debate pt1.docx
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/HIST3005_assignment#3.docx
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/HIST3005_assignment#4.docx
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/HIST3005_assignment_#2.docx
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/reading response #1.docx
-			/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/.DS_Store
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/de Las Casas, Brief Account of the Devastation of the Indies.pdf
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/Haitian Rev Bedford Free Citizens of Color.pdf
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/Haitian Rev Bedford Haiti Dec of Ind.pdf
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/Haitian Rev Bedford Intro.pdf
-				/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/Letter from Columbus.pdf
-		/Users/Student/Desktop/College/Spring_2016/HIST3005 final essay.docx
-		/Users/Student/Desktop/College/Spring_2016/HIST3005 reading assignment.docx
-		/Users/Student/Desktop/College/Spring_2016/In Defense of Lovecraft.pdf
-		/Users/Student/Desktop/College/Spring_2016/Intern Confidentiality Agreement-Dayton Shor.pdf
-		/Users/Student/Desktop/College/Spring_2016/javahw1
-			/Users/Student/Desktop/College/Spring_2016/javahw1/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/javahw1/Card.java
-			/Users/Student/Desktop/College/Spring_2016/javahw1/CardVal.java
-			/Users/Student/Desktop/College/Spring_2016/javahw1/Deck.java
-			/Users/Student/Desktop/College/Spring_2016/javahw1/MainDriver.java
-			/Users/Student/Desktop/College/Spring_2016/javahw1/Suit.java
-		/Users/Student/Desktop/College/Spring_2016/kitchen debate pt2.docx
-		/Users/Student/Desktop/College/Spring_2016/Lenin state and revolution .pdf
-		/Users/Student/Desktop/College/Spring_2016/Mainardi Politics of Housework copy.pdf
-		/Users/Student/Desktop/College/Spring_2016/makeHW
-			/Users/Student/Desktop/College/Spring_2016/makeHW/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/makeHW/Makefile
-			/Users/Student/Desktop/College/Spring_2016/makeHW/Point.cpp
-			/Users/Student/Desktop/College/Spring_2016/makeHW/Point.h
-			/Users/Student/Desktop/College/Spring_2016/makeHW/Rectangle.cpp
-			/Users/Student/Desktop/College/Spring_2016/makeHW/Rectangle.h
-		/Users/Student/Desktop/College/Spring_2016/Midterm essay.docx
-		/Users/Student/Desktop/College/Spring_2016/MUSC1300
-			/Users/Student/Desktop/College/Spring_2016/MUSC1300/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/MUSC1300/concert review 2.docx
-		/Users/Student/Desktop/College/Spring_2016/music Amadeus review.docx
-		/Users/Student/Desktop/College/Spring_2016/Outline.docx
-		/Users/Student/Desktop/College/Spring_2016/presentaion assignment.docx
-		/Users/Student/Desktop/College/Spring_2016/Presentation2.pptx
-		/Users/Student/Desktop/College/Spring_2016/prgm.cpp
-		/Users/Student/Desktop/College/Spring_2016/profHW
-			/Users/Student/Desktop/College/Spring_2016/profHW/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/profHW/main.cpp
-		/Users/Student/Desktop/College/Spring_2016/reading response APR 7.docx
-		/Users/Student/Desktop/College/Spring_2016/response to talk.docx
-		/Users/Student/Desktop/College/Spring_2016/Sandra ^_^
-			/Users/Student/Desktop/College/Spring_2016/Sandra ^_^/.DS_Store
-			/Users/Student/Desktop/College/Spring_2016/Sandra ^_^/Response Paper 2.docx
-		/Users/Student/Desktop/College/Spring_2016/unnamed.png
-/Users/Student/Desktop/Lab 4 - Breaking the Code.docx
-/Users/Student/Desktop/lab 4 breaking the code Fall 2017.docx
-/Users/Student/Desktop/Muffin Work
-	/Users/Student/Desktop/Muffin Work/.DS_Store
-	/Users/Student/Desktop/Muffin Work/Education
-		/Users/Student/Desktop/Muffin Work/Education/.DS_Store
-		/Users/Student/Desktop/Muffin Work/Education/DiscussionQuestions 3.docx
-		/Users/Student/Desktop/Muffin Work/Education/DiscussionQuestions2.docx
-	/Users/Student/Desktop/Muffin Work/Grammar
-		/Users/Student/Desktop/Muffin Work/Grammar/.DS_Store
-		/Users/Student/Desktop/Muffin Work/Grammar/Grammar Paragraph.docx
-/Users/Student/Desktop/Pokemon Showdown.app
-	/Users/Student/Desktop/Pokemon Showdown.app/Contents
-		/Users/Student/Desktop/Pokemon Showdown.app/Contents/_CodeSignature
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/_CodeSignature/CodeResources
-		/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/crash_inspector
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/_CodeSignature
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/_CodeSignature/CodeResources
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Libraries
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Libraries/ffmpegsumo.so
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/nwjs Framework
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/AHEM____.TTF
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/am.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ar.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/bg.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/bn.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ca.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ChromiumAATTest.ttf
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/cs.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/da.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/de.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/el.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/en-GB.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/en-US.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/English.lproj
-						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/English.lproj/HttpAuth.nib
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/es-419.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/es.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/et.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/fa.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/fi.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/fil.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/fr.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/gu.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/hi.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/hr.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/hu.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/icudtl.dat
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/id.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/it.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/iw.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ja.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/kn.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ko.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/lt.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/lv.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/missingImage.png
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ml.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/mr.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ms.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/nl.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/no.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/nw.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/pl.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/pt-BR.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/pt-PT.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ro.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ru.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sk.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sl.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sr.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sv.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sw.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ta.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/te.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/textAreaResizeCorner.png
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/th.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/tr.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/uk.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/vi.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/zh-CN.pak
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/zh-TW.pak
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/_CodeSignature
-						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/_CodeSignature/CodeResources
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/Info.plist
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/MacOS
-						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/MacOS/nwjs Helper EH
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/PkgInfo
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/_CodeSignature
-						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/_CodeSignature/CodeResources
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/Info.plist
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/MacOS
-						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/MacOS/nwjs Helper NP
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/PkgInfo
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/_CodeSignature
-						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/_CodeSignature/CodeResources
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/Info.plist
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/MacOS
-						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/MacOS/nwjs Helper
-					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/PkgInfo
-		/Users/Student/Desktop/Pokemon Showdown.app/Contents/Info.plist
-		/Users/Student/Desktop/Pokemon Showdown.app/Contents/MacOS
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/MacOS/nwjs
-		/Users/Student/Desktop/Pokemon Showdown.app/Contents/PkgInfo
-		/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/AHEM____.TTF
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/app.nw
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/app.nw/index.html
-				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/app.nw/package.json
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/ChromiumAATTest.ttf
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/missingImage.png
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/nw.icns
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/nw1.png
-			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/textAreaResizeCorner.png
+/Users/Student/Desktop
+	/Users/Student/Desktop/.DS_Store
+	/Users/Student/Desktop/.git
+		/Users/Student/Desktop/.git/.DS_Store
+		/Users/Student/Desktop/.git/branches
+		/Users/Student/Desktop/.git/config
+		/Users/Student/Desktop/.git/description
+		/Users/Student/Desktop/.git/HEAD
+		/Users/Student/Desktop/.git/hooks
+			/Users/Student/Desktop/.git/hooks/applypatch-msg.sample
+			/Users/Student/Desktop/.git/hooks/commit-msg.sample
+			/Users/Student/Desktop/.git/hooks/post-update.sample
+			/Users/Student/Desktop/.git/hooks/pre-applypatch.sample
+			/Users/Student/Desktop/.git/hooks/pre-commit.sample
+			/Users/Student/Desktop/.git/hooks/pre-push.sample
+			/Users/Student/Desktop/.git/hooks/pre-rebase.sample
+			/Users/Student/Desktop/.git/hooks/prepare-commit-msg.sample
+			/Users/Student/Desktop/.git/hooks/update.sample
+		/Users/Student/Desktop/.git/info
+			/Users/Student/Desktop/.git/info/exclude
+		/Users/Student/Desktop/.git/objects
+			/Users/Student/Desktop/.git/objects/info
+			/Users/Student/Desktop/.git/objects/pack
+		/Users/Student/Desktop/.git/refs
+			/Users/Student/Desktop/.git/refs/heads
+			/Users/Student/Desktop/.git/refs/tags
+	/Users/Student/Desktop/.localized
+	/Users/Student/Desktop/Calculus2
+		/Users/Student/Desktop/Calculus2/.DS_Store
+		/Users/Student/Desktop/Calculus2/Calculus Textbook James Stewart 8th edition.pdf
+		/Users/Student/Desktop/Calculus2/Calculus Textbook James Stewart 8th edition.pdf.zip
+		/Users/Student/Desktop/Calculus2/Final Review Flyer.docx
+		/Users/Student/Desktop/Calculus2/flyer template spring 2016.doc
+		/Users/Student/Desktop/Calculus2/Intern Confirmation Letter-Dayton Shor.pdf
+		/Users/Student/Desktop/Calculus2/midterm exam review flyer.docx
+		/Users/Student/Desktop/Calculus2/spring-2013-final.pdf
+	/Users/Student/Desktop/CISC_3150
+		/Users/Student/Desktop/CISC_3150/.DS_Store
+		/Users/Student/Desktop/CISC_3150/Blah.class
+		/Users/Student/Desktop/CISC_3150/Blah.java
+		/Users/Student/Desktop/CISC_3150/CISC3150Homework2.zip
+		/Users/Student/Desktop/CISC_3150/Homework1.zip
+	/Users/Student/Desktop/College
+		/Users/Student/Desktop/College/.DS_Store
+		/Users/Student/Desktop/College/Fall_2015
+			/Users/Student/Desktop/College/Fall_2015/.DS_Store
+			/Users/Student/Desktop/College/Fall_2015/CISC1110
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/.DS_Store
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_03_15
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_03_15.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_03_15.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_08_15
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_08_15.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_08_15.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_17_15
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_17_15.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/09_17_15.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100115
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100115.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100115.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100815
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100815.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100815.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100815pt2
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100815pt2.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/100815pt2.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102215
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102215.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102215.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102715
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102715.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102715.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102915
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102915.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/102915.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/110315
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/110315.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/110315.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/110515
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/110515.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/110515.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/111015
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/111015.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/111015.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/111215
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/111215.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/111215.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/11_19_15
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/11_19_15.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/11_19_15.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/12115
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/12115.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/12115.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/12315
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/12315.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/12315.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92415
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92415.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92415.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92415pt2
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92415pt2.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92415pt2.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92515
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92515.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/92515.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/9_24_15
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/9_24_15.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/editor.txt
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/editorout.txt
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/ex
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/ex.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/ex.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/.DS_Store
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/09_03_15
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/09_03_15.o
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/09_08_15
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/09_08_15.o
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/prgrm1_HW1
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/prgrm1_HW1.cpp
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/prgrm1_HW1.o
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/test_prgm
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/garbage/test_prgm.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/HW
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/.DS_Store
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/.DS_Store
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/hw#1_handcheck.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/hw#1_input.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/hw#1_memory_trace.docx
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/hw#1_output.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/prgrm1_HW1
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/prgrm1_HW1.cpp
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#1/prgrm1_HW1.o
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/.DS_Store
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/Dayton Shor.docx
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/hw#2_prgm
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/hw#2_prgm.cpp
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#2/hw#2_prgm.o
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/.DS_Store
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3input.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3output.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3prgm
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3prgm.cpp
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/hw3prgm.o
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#3/teamStats.txt
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/.DS_Store
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4input.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4output.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4prgm
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4prgm.cpp
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#4/hw4prgm.o
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/.DS_Store
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw#5output2.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw#5sourcecode.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5input copy.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5input.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5output copy.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5output.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5prgm
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#5/hw5prgm.cpp
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/.DS_Store
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/hw6_input.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/hw6_prgm
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/hw6_prgm.cpp
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#6/hw6_prgm.o
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/.DS_Store
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8 source code.docx
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8 source code.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8_prgm
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8_prgm.cpp
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/hw#8_prgm.o
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/input.txt
+						/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/hw#8/Output#8.docx
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/prgrm1_HW1
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/prgrm1_HW1.cpp
+					/Users/Student/Desktop/College/Fall_2015/CISC1110/HW/prgrm1_HW1.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/hw#6_output.txt
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/hw#6_source_code.txt
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/hw#8sourcecode.docx
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/hw#8sourcecode.txt
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/hw6_input.txt
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/introcompFall2013-2.pptx
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab 9_17_15
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab 9_17_15.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab10
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab10.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab10.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab11
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab11.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab11.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab12
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab12.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab12.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab13
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab13.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab13.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab14
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab14.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab14.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab2
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab2.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab2.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab3
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab3.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab3.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab4
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab4.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab4.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab5
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab5.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab5.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab6
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab6.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab6.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab7
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab7.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab7.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab8
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab8.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab8.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab9
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab9.cpp
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/lab9.o
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/Reading Worksheet 12 (Roman Epistles).docx
+				/Users/Student/Desktop/College/Fall_2015/CISC1110/thermometer.cpp
+			/Users/Student/Desktop/College/Fall_2015/CLAS1110
+				/Users/Student/Desktop/College/Fall_2015/CLAS1110/.DS_Store
+				/Users/Student/Desktop/College/Fall_2015/CLAS1110/CLAS1110 (F15)-3.doc
+				/Users/Student/Desktop/College/Fall_2015/CLAS1110/CLAS1110 Writing Assignment.docx
+				/Users/Student/Desktop/College/Fall_2015/CLAS1110/creative assignment.docx
+				/Users/Student/Desktop/College/Fall_2015/CLAS1110/Odessey_gifts_paper.docx
+				/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/.DS_Store
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #2 (Od.7, 8).doc
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #3 (Od.9, 13).doc
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #4 (Od.18, 21).doc
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #5 (Od.22, 23).doc
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #6 (Medea).doc
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #7 (Plato's Apology).doc
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #8 (Plato's Crito, Phaedo).doc
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW #9 (Livy, book 1).docx
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/CLAS1110 RW#1 (Od 1,5,6)-4.docx
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 10 (Aeneid bk 1-2).docx
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 11 (Aeneid bk 3-4).docx
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 11 (Aeneid bk 5-6).docx
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 13 (The Golden Ass 1-2).docx
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 14 (The Golden Ass 3 & 10).docx
+					/Users/Student/Desktop/College/Fall_2015/CLAS1110/reading worksheets/Reading Worksheet 15 (The Golden Ass 11)-2.docx
+			/Users/Student/Desktop/College/Fall_2015/ENGL 1010
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/.DS_Store
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/50-writing-tools.pdf
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/Dayton Shor.docx
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/Essay #1 draft 2.docx
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay #1.docx
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#2 draft 2.docx
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#2.docx
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#4 draft 2.docx
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#4_draft#1.docx
+				/Users/Student/Desktop/College/Fall_2015/ENGL 1010/essay#5.docx
+		/Users/Student/Desktop/College/Fall_2016
+			/Users/Student/Desktop/College/Fall_2016/.DS_Store
+			/Users/Student/Desktop/College/Fall_2016/Anthropology
+				/Users/Student/Desktop/College/Fall_2016/Anthropology/.DS_Store
+				/Users/Student/Desktop/College/Fall_2016/Anthropology/Sept 7 response.docx
+			/Users/Student/Desktop/College/Fall_2016/Disability Studies
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/.DS_Store
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/1. An Archive and Anatomy of Disability Myths, Dolmage copy.pdf
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/2. Rhetoric of Ableism.docx
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/3. Cinema of Isolation, Norden .pdf
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/4. Disability, Spectatorship, and The Station Agent                               .docx
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/5. Advertising Boldly Moves Disability Images Forward, Haller copy-2.pdf
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/6. The Sound of the Bones, Kuppers .pdf
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/8. Media's Role in Disability, Ellis and Goggin copy-2.pdf
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/9. Eli Clare Freaks and Queers.pdf
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/Freaks response .docx
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/Nobody's Perfect Response.docx
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/response paper station agent.docx
+				/Users/Student/Desktop/College/Fall_2016/Disability Studies/Syllabus, Disability and the Politics of Cultural Representation-2.pdf
+			/Users/Student/Desktop/College/Fall_2016/Intro to Advanced Math
+				/Users/Student/Desktop/College/Fall_2016/Intro to Advanced Math/.DS_Store
+				/Users/Student/Desktop/College/Fall_2016/Intro to Advanced Math/Pearson.Mathematical.Proofs.A.Transition.to.Advanced.Mathematics.3rd.Edition.0321797094.pdf
+			/Users/Student/Desktop/College/Fall_2016/movies 
+				/Users/Student/Desktop/College/Fall_2016/movies /.DS_Store
+				/Users/Student/Desktop/College/Fall_2016/movies /Niko Von Glasow.mov
+			/Users/Student/Desktop/College/Fall_2016/physics final
+				/Users/Student/Desktop/College/Fall_2016/physics final/.DS_Store
+				/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand10.doc
+				/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand11.doc
+				/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand12.doc
+				/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand8.doc
+				/Users/Student/Desktop/College/Fall_2016/physics final/Cphyshand9.doc
+		/Users/Student/Desktop/College/Fall_2017
+		/Users/Student/Desktop/College/Spring_2016
+			/Users/Student/Desktop/College/Spring_2016/.DS_Store
+			/Users/Student/Desktop/College/Spring_2016/4239823.pdf
+			/Users/Student/Desktop/College/Spring_2016/Abortion debate stalin letters to izvestiia.pdf
+			/Users/Student/Desktop/College/Spring_2016/algone62014-exam.pdf
+			/Users/Student/Desktop/College/Spring_2016/algone82014-exam.pdf
+			/Users/Student/Desktop/College/Spring_2016/article review 2.docx
+			/Users/Student/Desktop/College/Spring_2016/batman and american Mr. Hyde.pdf
+			/Users/Student/Desktop/College/Spring_2016/call of cthulhu.pdf
+			/Users/Student/Desktop/College/Spring_2016/concert assignment #2.docx
+			/Users/Student/Desktop/College/Spring_2016/concert assignment 1.docx
+			/Users/Student/Desktop/College/Spring_2016/DataStructures
+				/Users/Student/Desktop/College/Spring_2016/DataStructures/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4/.DS_Store
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4/a.out
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4/heap.h
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/DSHW4/test.cpp
+				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/.DS_Store
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/a.out
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/Dayton_Shor_TR9_HW1.zip
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/README
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/SinglyLinkedList.h
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework1/SinglyLinkedListTest.cpp
+				/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2/.DS_Store
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2/a.out
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2/main.cpp
+					/Users/Student/Desktop/College/Spring_2016/DataStructures/homework2/maze.h
+			/Users/Student/Desktop/College/Spring_2016/Dayton_Shor_resume.docx
+			/Users/Student/Desktop/College/Spring_2016/Dayton_Shor_VIDRIO_Contract_16-3.pdf
+			/Users/Student/Desktop/College/Spring_2016/DE
+				/Users/Student/Desktop/College/Spring_2016/DE/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/DE/chapter 1
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/.DS_Store
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/1.ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/2-2.ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/3(1).ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 1/4.ppt
+				/Users/Student/Desktop/College/Spring_2016/DE/chapter 2
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/.DS_Store
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/1(1).ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/2(1).ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/3(2).ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/4(1).ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/5(1).ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/6(5).ppt
+					/Users/Student/Desktop/College/Spring_2016/DE/chapter 2/7.ppt
+			/Users/Student/Desktop/College/Spring_2016/ENGL1012
+				/Users/Student/Desktop/College/Spring_2016/ENGL1012/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/ENGL1012/Annotated bibliography.docx
+				/Users/Student/Desktop/College/Spring_2016/ENGL1012/article review 3.docx
+				/Users/Student/Desktop/College/Spring_2016/ENGL1012/Dayton Shor.docx
+				/Users/Student/Desktop/College/Spring_2016/ENGL1012/English1012Spring2016MW(1).pdf
+				/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings
+					/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/.DS_Store
+					/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/American Heroes.pdf
+					/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/freud.pdf
+					/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/Holy Islamaphobia Batman.pdf
+					/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/lycoan metamorphisis .pdf
+					/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/Monster Theory _ Reading Culture.pdf
+					/Users/Student/Desktop/College/Spring_2016/ENGL1012/readings/Moral Saints, Moral monsters.pdf
+				/Users/Student/Desktop/College/Spring_2016/ENGL1012/Response paper #1.docx
+				/Users/Student/Desktop/College/Spring_2016/ENGL1012/Topic proposal.docx
+			/Users/Student/Desktop/College/Spring_2016/English research paper.docx
+			/Users/Student/Desktop/College/Spring_2016/femenist essay.docx
+			/Users/Student/Desktop/College/Spring_2016/Final essay HIST3005.docx
+			/Users/Student/Desktop/College/Spring_2016/final exam review flyer spring 2016.docx
+			/Users/Student/Desktop/College/Spring_2016/Friedan Feminine Mystique copy.pdf
+			/Users/Student/Desktop/College/Spring_2016/Friedan Feminine Mystique.pdf
+			/Users/Student/Desktop/College/Spring_2016/HIST 3005 05-09-16.docx
+			/Users/Student/Desktop/College/Spring_2016/HIST 3005 reading assignment APRL 5.docx
+			/Users/Student/Desktop/College/Spring_2016/HIST3005
+				/Users/Student/Desktop/College/Spring_2016/HIST3005/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/HIST3005/3005_honors_ syllabus spring 2016.pdf
+				/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/.DS_Store
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/HIST 3005 kitchen debate pt1.docx
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/HIST3005_assignment#3.docx
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/HIST3005_assignment#4.docx
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/HIST3005_assignment_#2.docx
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/assignments/reading response #1.docx
+				/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/.DS_Store
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/de Las Casas, Brief Account of the Devastation of the Indies.pdf
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/Haitian Rev Bedford Free Citizens of Color.pdf
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/Haitian Rev Bedford Haiti Dec of Ind.pdf
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/Haitian Rev Bedford Intro.pdf
+					/Users/Student/Desktop/College/Spring_2016/HIST3005/Readings/Letter from Columbus.pdf
+			/Users/Student/Desktop/College/Spring_2016/HIST3005 final essay.docx
+			/Users/Student/Desktop/College/Spring_2016/HIST3005 reading assignment.docx
+			/Users/Student/Desktop/College/Spring_2016/In Defense of Lovecraft.pdf
+			/Users/Student/Desktop/College/Spring_2016/Intern Confidentiality Agreement-Dayton Shor.pdf
+			/Users/Student/Desktop/College/Spring_2016/javahw1
+				/Users/Student/Desktop/College/Spring_2016/javahw1/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/javahw1/Card.java
+				/Users/Student/Desktop/College/Spring_2016/javahw1/CardVal.java
+				/Users/Student/Desktop/College/Spring_2016/javahw1/Deck.java
+				/Users/Student/Desktop/College/Spring_2016/javahw1/MainDriver.java
+				/Users/Student/Desktop/College/Spring_2016/javahw1/Suit.java
+			/Users/Student/Desktop/College/Spring_2016/kitchen debate pt2.docx
+			/Users/Student/Desktop/College/Spring_2016/Lenin state and revolution .pdf
+			/Users/Student/Desktop/College/Spring_2016/Mainardi Politics of Housework copy.pdf
+			/Users/Student/Desktop/College/Spring_2016/makeHW
+				/Users/Student/Desktop/College/Spring_2016/makeHW/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/makeHW/Makefile
+				/Users/Student/Desktop/College/Spring_2016/makeHW/Point.cpp
+				/Users/Student/Desktop/College/Spring_2016/makeHW/Point.h
+				/Users/Student/Desktop/College/Spring_2016/makeHW/Rectangle.cpp
+				/Users/Student/Desktop/College/Spring_2016/makeHW/Rectangle.h
+			/Users/Student/Desktop/College/Spring_2016/Midterm essay.docx
+			/Users/Student/Desktop/College/Spring_2016/MUSC1300
+				/Users/Student/Desktop/College/Spring_2016/MUSC1300/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/MUSC1300/concert review 2.docx
+			/Users/Student/Desktop/College/Spring_2016/music Amadeus review.docx
+			/Users/Student/Desktop/College/Spring_2016/Outline.docx
+			/Users/Student/Desktop/College/Spring_2016/presentaion assignment.docx
+			/Users/Student/Desktop/College/Spring_2016/Presentation2.pptx
+			/Users/Student/Desktop/College/Spring_2016/prgm.cpp
+			/Users/Student/Desktop/College/Spring_2016/profHW
+				/Users/Student/Desktop/College/Spring_2016/profHW/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/profHW/main.cpp
+			/Users/Student/Desktop/College/Spring_2016/reading response APR 7.docx
+			/Users/Student/Desktop/College/Spring_2016/response to talk.docx
+			/Users/Student/Desktop/College/Spring_2016/Sandra ^_^
+				/Users/Student/Desktop/College/Spring_2016/Sandra ^_^/.DS_Store
+				/Users/Student/Desktop/College/Spring_2016/Sandra ^_^/Response Paper 2.docx
+			/Users/Student/Desktop/College/Spring_2016/unnamed.png
+	/Users/Student/Desktop/Lab 4 - Breaking the Code.docx
+	/Users/Student/Desktop/lab 4 breaking the code Fall 2017.docx
+	/Users/Student/Desktop/Muffin Work
+		/Users/Student/Desktop/Muffin Work/.DS_Store
+		/Users/Student/Desktop/Muffin Work/Education
+			/Users/Student/Desktop/Muffin Work/Education/.DS_Store
+			/Users/Student/Desktop/Muffin Work/Education/DiscussionQuestions 3.docx
+			/Users/Student/Desktop/Muffin Work/Education/DiscussionQuestions2.docx
+		/Users/Student/Desktop/Muffin Work/Grammar
+			/Users/Student/Desktop/Muffin Work/Grammar/.DS_Store
+			/Users/Student/Desktop/Muffin Work/Grammar/Grammar Paragraph.docx
+	/Users/Student/Desktop/Pokemon Showdown.app
+		/Users/Student/Desktop/Pokemon Showdown.app/Contents
+			/Users/Student/Desktop/Pokemon Showdown.app/Contents/_CodeSignature
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/_CodeSignature/CodeResources
+			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/crash_inspector
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/_CodeSignature
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/_CodeSignature/CodeResources
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Libraries
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Libraries/ffmpegsumo.so
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/nwjs Framework
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/AHEM____.TTF
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/am.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ar.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/bg.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/bn.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ca.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ChromiumAATTest.ttf
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/cs.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/da.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/de.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/el.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/en-GB.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/en-US.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/English.lproj
+							/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/English.lproj/HttpAuth.nib
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/es-419.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/es.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/et.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/fa.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/fi.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/fil.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/fr.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/gu.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/hi.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/hr.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/hu.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/icudtl.dat
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/id.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/it.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/iw.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ja.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/kn.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ko.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/lt.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/lv.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/missingImage.png
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ml.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/mr.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ms.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/nl.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/no.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/nw.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/pl.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/pt-BR.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/pt-PT.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ro.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ru.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sk.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sl.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sr.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sv.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/sw.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/ta.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/te.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/textAreaResizeCorner.png
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/th.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/tr.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/uk.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/vi.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/zh-CN.pak
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Framework.framework/Resources/zh-TW.pak
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/_CodeSignature
+							/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/_CodeSignature/CodeResources
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/Info.plist
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/MacOS
+							/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/MacOS/nwjs Helper EH
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper EH.app/Contents/PkgInfo
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/_CodeSignature
+							/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/_CodeSignature/CodeResources
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/Info.plist
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/MacOS
+							/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/MacOS/nwjs Helper NP
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper NP.app/Contents/PkgInfo
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/_CodeSignature
+							/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/_CodeSignature/CodeResources
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/Info.plist
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/MacOS
+							/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/MacOS/nwjs Helper
+						/Users/Student/Desktop/Pokemon Showdown.app/Contents/Frameworks/nwjs Helper.app/Contents/PkgInfo
+			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Info.plist
+			/Users/Student/Desktop/Pokemon Showdown.app/Contents/MacOS
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/MacOS/nwjs
+			/Users/Student/Desktop/Pokemon Showdown.app/Contents/PkgInfo
+			/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/AHEM____.TTF
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/app.nw
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/app.nw/index.html
+					/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/app.nw/package.json
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/ChromiumAATTest.ttf
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/missingImage.png
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/nw.icns
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/nw1.png
+				/Users/Student/Desktop/Pokemon Showdown.app/Contents/Resources/textAreaResizeCorner.png
