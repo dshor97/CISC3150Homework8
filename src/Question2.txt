@@ -2,4 +2,5 @@ The source I used is:
 https://superuser.com/questions/459609/what-does-it-do-exactly-if-i-click-in-the-window-of-cmd
 
 Based on this, when the command prompt is in mark mode, all current tasks on the command prompt are paused.
-And, once you exit mark mode the processes resumes.
+And, once you exit mark mode the processes resumes. This would explain why the code stopped when mark mode was turned on
+and then resumed when mark mode was turned off.
