@@ -1,0 +1,5 @@
+The source I used is:
+https://superuser.com/questions/459609/what-does-it-do-exactly-if-i-click-in-the-window-of-cmd
+
+Based on this, when the comand prompt is in command mode all current tasks on the command prompt are paused.
+And, once you exit mark mode the processes resumes.
