@@ -20,7 +20,7 @@ public class Main {
         File[] subTree;
         for(int i = 0;i<tree.length;i++) {
             String spaces = new String();
-            for(int k = 0;k<numSpaces;k++){
+            for(int k = 0;k < numSpaces;k++){
                 spaces += "\t";
             }
             dataOutputStream.writeBytes(spaces + tree[i].toString() + '\n');
